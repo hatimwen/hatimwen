@@ -3,7 +3,7 @@
 
 <p align="center">
   <a target="_blank" href="https://blog.csdn.net/Hatim98">CSDN Blog</a> •
-  <a target="_blank" href="https://wenht.xyz">Homepage</a>  •
+  <a target="_blank" href="https://hatimwen.github.io/">Homepage</a>  •
   <a target="_blank" href="https://www.cnblogs.com/hatimwen/">cnblogs</a> 
 </p>
 <a href="https://github.com/hatimwen"><img src="icons/header_.png" style="width: 99%; max-width: 99%; min-width: 99%;">
